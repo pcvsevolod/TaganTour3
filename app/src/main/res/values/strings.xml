@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">monumentsGO</string>
+    <string name="title_collection">Коллекция</string>
+    <string name="title_map">Карта</string>
+    <string name="title_tours">Экскурсии</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="map_show_all">Показать все</string>
+    <string name="map_hide_all">Спрятать все</string>
+    <string name="map_show_only_current_tour">Только экскурсия</string>
+    <string name="map_show_collected">Показать собранные</string>
+    <string name="map_hide_collected">Спрятать собранные</string>
+    <string name="title_activity_ar">AR</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="map_menu_turn_on_folliwing">Включить навигацию</string>
+    <string name="map_menu_turn_off_folliwing">Выключить навигацию</string>
+    <string name="map_menu_deselect_tour">Отменить экскурсию</string>
+    <string name="col_item_btn_model">Модель</string>
+    <string name="col_item_btn_info">Инфо</string>
+    <string name="d_info_close">Закрыть</string>
+    <string name="d_i_quiz">Тест</string>
+    <string name="d_quiz_btn_close">Закрыть</string>
+    <string name="d_quiz_answer">Ответ</string>
+    <string name="d_quiz_results">Результат</string>
+    <string name="d_quiz_l_repeat">Повторить</string>
+    <string name="d_quiz_w_">Награда</string>
+    <string name="d_quiz_l_close">Закрыть</string>
+    <string name="d_quiz_m_close">Закрыть</string>
+    <string name="d_quiz_m_repeat">Повторить</string>
+    <string name="d_quiz_loser">Проигрыш!</string>
+    <string name="d_quiz_winner">Выигрыш!</string>
+    <string name="me_title">Я</string>
+    <string name="d_tour_info">Начать</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportHeight="32"
+    android:viewportWidth="32">
+
+    <group>
+    <path
+        android:fillColor="#4285F4"
+        android:pathData="M2,16
+        a14,14 0,1 1,28 0
+        a14,14 0,1 1,-28 0"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="4" />
+    </group>
+    <!--group android:name="check">
+        <path
+            android:name="tick"
+            android:pathData="M0,0h32v32h-32vz"
+            android:strokeColor="#FFFFFF"
+            android:strokeWidth="1" />
+    </group-->
+</vector>

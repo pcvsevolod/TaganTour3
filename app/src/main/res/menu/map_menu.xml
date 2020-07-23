@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/map_menu_all"
+        android:title="@string/map_show_all" />
+    <item
+        android:id="@+id/map_menu_tour"
+        android:title="@string/map_show_only_current_tour" />
+    <item
+        android:id="@+id/map_menu_collected"
+        android:title="@string/map_show_collected" />
+    <item
+        android:id="@+id/map_menu_follow_me"
+        android:title="@string/map_menu_turn_on_folliwing"/>
+    <item
+        android:id="@+id/map_menu_deselect_tour"
+        android:title="@string/map_menu_deselect_tour"/>
+</menu>

@@ -1,0 +1,2 @@
+rootProject.name='TaganTour3'
+include ':app'
